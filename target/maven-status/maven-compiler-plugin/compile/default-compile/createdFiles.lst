@@ -1,0 +1,9 @@
+mx\metaphorce\mvnprojectexample\model\Productor.class
+mx\metaphorce\mvnprojectexample\model\Persona.class
+mx\metaphorce\mvnprojectexample\model\PersonaMultiPerfil.class
+mx\metaphorce\mvnprojectexample\model\Actor.class
+mx\metaphorce\mvnprojectexample\model\Cliente.class
+mx\metaphorce\mvnprojectexample\repository\ConnectionDB.class
+mx\metaphorce\mvnprojectexample\model\PersonaCliente.class
+mx\metaphorce\mvnprojectexample\Mvnprojectexample.class
+mx\metaphorce\mvnprojectexample\repository\PersonaRepository.class
